@@ -1,16 +1,20 @@
-# schedule_generator
+# 📅 Schedule Generator
 
-A new Flutter project.
+**Schedule Generator** adalah aplikasi Flutter untuk membantu pengguna membuat jadwal otomatis berdasarkan input yang diberikan. Aplikasi ini cocok untuk pelajar, mahasiswa, atau siapa pun yang butuh penjadwalan cepat dan rapi.
 
-## Getting Started
+## 🚀 Fitur Utama
+- Input mata pelajaran atau kegiatan harian
+- Generate jadwal otomatis berdasarkan durasi & preferensi
+- Tampilan simpel dan user-friendly
+- Disimpan secara lokal atau bisa export (soon!)
 
-This project is a starting point for a Flutter application.
+## 🛠 Teknologi yang Digunakan
+- Flutter 3.x
+- Dart
+- Provider (atau state management lainnya, kalau kamu pakai)
+- Material Design
 
-A few resources to get you started if this is your first Flutter project:
+👩‍💻 Developer
+Made with ❤️ by Shika Dhia Eryna Haribowo
+IG: @shikadhie
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
